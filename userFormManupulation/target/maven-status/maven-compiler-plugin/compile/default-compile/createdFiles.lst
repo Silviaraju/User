@@ -1,0 +1,6 @@
+com\example\userFormManupulation\Repository\userRepository.class
+com\example\userFormManupulation\Model\User.class
+com\example\userFormManupulation\Controller\userController.class
+com\example\userFormManupulation\UserFormManupulationApplication.class
+com\example\userFormManupulation\apiResponse\ApiResponse.class
+com\example\userFormManupulation\Config\MyConfig.class
